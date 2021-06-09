@@ -1,0 +1,9 @@
+export 'cast.dart';
+export 'genre.dart';
+export 'movie_credits.dart';
+export 'movie_detailed.dart';
+export 'movie_search_results.dart';
+export 'movie.dart';
+export 'production_company.dart';
+export 'production_country.dart';
+export 'spoken_language.dart';
