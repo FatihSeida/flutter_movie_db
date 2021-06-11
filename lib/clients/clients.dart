@@ -1,9 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_movie_db/constant/constants.dart';
-import '/models/movie.dart';
-import '/models/movie_credits.dart';
-import '/models/movie_detailed.dart';
-import '/models/movie_search_results.dart';
+import '../models/models.dart';
+import '../models/movie.dart';
+
 
 class Client {
   BaseOptions dioTmdbOptions = BaseOptions(
